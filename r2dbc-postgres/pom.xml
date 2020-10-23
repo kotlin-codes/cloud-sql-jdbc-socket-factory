@@ -22,12 +22,12 @@
     <dependency>
       <groupId>io.r2dbc</groupId>
       <artifactId>r2dbc-spi</artifactId>
-      <version>0.8.2.RELEASE</version>
+      <version>0.8.3.RELEASE</version>
     </dependency>
     <dependency>
       <groupId>io.r2dbc</groupId>
       <artifactId>r2dbc-postgresql</artifactId>
-      <version>0.8.5.RELEASE</version>
+      <version>0.8.6.RELEASE</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -44,13 +44,13 @@
     <dependency>
       <groupId>com.google.truth</groupId>
       <artifactId>truth</artifactId>
-      <version>1.0.1</version>
+      <version>1.1</version>
       <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>io.r2dbc</groupId>
       <artifactId>r2dbc-pool</artifactId>
-      <version>0.8.4.RELEASE</version>
+      <version>0.8.5.RELEASE</version>
       <scope>test</scope>
     </dependency>
 
@@ -63,7 +63,7 @@
         <dependency>
           <groupId>io.r2dbc</groupId>
           <artifactId>r2dbc-postgresql</artifactId>
-          <version>0.8.5.RELEASE</version>
+          <version>0.8.6.RELEASE</version>
         </dependency>
       </dependencies>
     </profile>
